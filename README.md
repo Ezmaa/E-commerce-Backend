@@ -1,5 +1,5 @@
 # E-commerce-Backend
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)]
+![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 # Description
 Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
@@ -29,7 +29,7 @@ node server.js
 ```
 In order to gather data on the backend of the application, you can make request through Insomnia (https://insomnia.rest/download).
 ```
-[Walkthrough Video](https://drive.google.com/file/d/151EXTmqQJpZHULX4Yw6Ze2-pPHWYIibt/view).
+Take a look at the [Walkthrough Video](https://drive.google.com/file/d/151EXTmqQJpZHULX4Yw6Ze2-pPHWYIibt/view).
 ```
 # License 
 This project is licensed under the MIT license.
