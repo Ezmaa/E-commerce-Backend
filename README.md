@@ -1,6 +1,5 @@
 # E-commerce-Backend
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-https://lbesson.mit-license.org/
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)]
 
 # Description
 Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
@@ -30,10 +29,10 @@ node server.js
 ```
 In order to gather data on the backend of the application, you can make request through Insomnia (https://insomnia.rest/download).
 # License 
-This README.md generator is licensed under the MIT license.
+This project is licensed under the MIT license.
 ## Licenses
     This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
 # Questions:
 * Email: ezinmark@gmail.com
 * Github: https://github.com/Ezmaa
-* LinkedIn: [![Ezinma-Nwankwo](linkedin.com/in/ezinma-nwankwo-3b7905234)]
+* LinkedIn: [[Ezinma-Nwankwo](linkedin.com/in/ezinma-nwankwo-3b7905234)]
