@@ -28,6 +28,9 @@ Now you're ready to start the application! You can start the server by running:
 node server.js
 ```
 In order to gather data on the backend of the application, you can make request through Insomnia (https://insomnia.rest/download).
+```
+[Walkthrough Video](https://drive.google.com/file/d/151EXTmqQJpZHULX4Yw6Ze2-pPHWYIibt/view).
+```
 # License 
 This project is licensed under the MIT license.
 ## Licenses
